@@ -28,7 +28,7 @@
         <mxCell id="_vxHMzJD6G0ACfAFZYiC-61" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;结果展示&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 17px;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;（进度条、情绪）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="519.75" width="150" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="_vxHMzJD6G0ACfAFZYiC-62" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;后端API（Django）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="_vxHMzJD6G0ACfAFZYiC-62" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;后端服务层（Django）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="615" y="141.25" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_vxHMzJD6G0ACfAFZYiC-67" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;数据集处理模块&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;（&lt;/span&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;分割/增强/校验&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
