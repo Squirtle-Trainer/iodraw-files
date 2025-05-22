@@ -80,7 +80,7 @@
         <mxCell id="_vxHMzJD6G0ACfAFZYiC-67" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;数据集处理模块&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;（&lt;/span&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;分割/增强/校验&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="257.25" width="150" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="_vxHMzJD6G0ACfAFZYiC-68" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;数据集处理模块&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;（&lt;/span&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;分割/增强/校验&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_vxHMzJD6G0ACfAFZYiC-68" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;模型训练模块&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;（训练/导出/日志）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="341.25" width="150" height="56" as="geometry" />
         </mxCell>
       </root>
