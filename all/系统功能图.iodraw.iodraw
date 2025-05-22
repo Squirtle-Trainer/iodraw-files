@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_vxHMzJD6G0ACfAFZYiC-1" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;人脸表情识别与心理状态判断系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="51.25" width="276" height="40" as="geometry" />
+          <mxGeometry x="420" y="51.25" width="360" height="58.75" as="geometry" />
         </mxCell>
         <mxCell id="_vxHMzJD6G0ACfAFZYiC-3" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;前端页面（HTML/JS/CSS）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="141.25" width="230" height="60" as="geometry" />
@@ -77,11 +77,8 @@
         <mxCell id="_vxHMzJD6G0ACfAFZYiC-62" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;后端API（Django）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="615" y="141.25" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_vxHMzJD6G0ACfAFZYiC-66" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;数据集处理模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="250" width="200" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="_vxHMzJD6G0ACfAFZYiC-67" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;数据集处理模块&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;（&lt;/span&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;分割/增强/校验&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="370" width="150" height="56" as="geometry" />
+          <mxGeometry x="590" y="257.25" width="150" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
