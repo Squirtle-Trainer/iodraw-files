@@ -64,21 +64,6 @@
         <mxCell id="_vxHMzJD6G0ACfAFZYiC-32" value="人脸表情识别系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1160" y="289" width="189" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="_vxHMzJD6G0ACfAFZYiC-33" value="前端页面（HTML/JS/CSS）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="580" width="252" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="_vxHMzJD6G0ACfAFZYiC-34" value="数据集管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="160" y="714" width="142" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="_vxHMzJD6G0ACfAFZYiC-35" value="模型训练" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="352" y="714" width="126" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="_vxHMzJD6G0ACfAFZYiC-36" value="情绪识别（图片/实时/视频）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="528" y="706" width="255" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="_vxHMzJD6G0ACfAFZYiC-37" value="结果展示（分布、进度条、主情绪）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="833" y="706" width="253" height="67" as="geometry" />
-        </mxCell>
         <mxCell id="_vxHMzJD6G0ACfAFZYiC-38" value="后端API（Django）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1611" y="598" width="197" height="49" as="geometry" />
         </mxCell>
@@ -97,11 +82,12 @@
         <mxCell id="_vxHMzJD6G0ACfAFZYiC-43" value="数据存储（文件/模型/临时数据）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1859" y="589" width="255" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="_vxHMzJD6G0ACfAFZYiC-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.58;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_vxHMzJD6G0ACfAFZYiC-32" target="_vxHMzJD6G0ACfAFZYiC-33">
+        <mxCell id="_vxHMzJD6G0ACfAFZYiC-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.58;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_vxHMzJD6G0ACfAFZYiC-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="535" y="564" />
             </Array>
+            <mxPoint x="1145.9999999999995" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_vxHMzJD6G0ACfAFZYiC-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_vxHMzJD6G0ACfAFZYiC-32" target="_vxHMzJD6G0ACfAFZYiC-38">
@@ -113,34 +99,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1986" y="564" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_vxHMzJD6G0ACfAFZYiC-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="_vxHMzJD6G0ACfAFZYiC-33" target="_vxHMzJD6G0ACfAFZYiC-34">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="231" y="681" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_vxHMzJD6G0ACfAFZYiC-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.3;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="_vxHMzJD6G0ACfAFZYiC-33" target="_vxHMzJD6G0ACfAFZYiC-35">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="415" y="681" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_vxHMzJD6G0ACfAFZYiC-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.7;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="_vxHMzJD6G0ACfAFZYiC-33" target="_vxHMzJD6G0ACfAFZYiC-36">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="655" y="681" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_vxHMzJD6G0ACfAFZYiC-50" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.85;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="_vxHMzJD6G0ACfAFZYiC-33" target="_vxHMzJD6G0ACfAFZYiC-37">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="959" y="681" />
             </Array>
           </mxGeometry>
         </mxCell>
