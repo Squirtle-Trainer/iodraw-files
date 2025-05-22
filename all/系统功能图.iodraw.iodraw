@@ -172,8 +172,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_vxHMzJD6G0ACfAFZYiC-55" value="结果展示（分布、进度条、主情绪）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="107" y="510" width="253" height="67" as="geometry" />
+        <mxCell id="_vxHMzJD6G0ACfAFZYiC-55" value="结果展示（分布、进度条、主情绪）" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="107" y="510" width="203" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
