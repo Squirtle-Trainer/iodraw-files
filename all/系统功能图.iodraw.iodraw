@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="rgPxHXmd-TlGn6DrxsEM">
-    <mxGraphModel dx="1687" dy="982" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="2151" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,15 +12,6 @@
         </mxCell>
         <mxCell id="_vxHMzJD6G0ACfAFZYiC-1" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;人脸表情识别与心理状态判断系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="60" width="276" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="_vxHMzJD6G0ACfAFZYiC-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="_vxHMzJD6G0ACfAFZYiC-3" target="_vxHMzJD6G0ACfAFZYiC-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_vxHMzJD6G0ACfAFZYiC-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="_vxHMzJD6G0ACfAFZYiC-3" target="_vxHMzJD6G0ACfAFZYiC-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_vxHMzJD6G0ACfAFZYiC-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="_vxHMzJD6G0ACfAFZYiC-3" target="_vxHMzJD6G0ACfAFZYiC-17">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_vxHMzJD6G0ACfAFZYiC-3" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;前端页面（HTML/JS/CSS）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="150" width="230" height="60" as="geometry" />
@@ -82,14 +73,6 @@
         <mxCell id="_vxHMzJD6G0ACfAFZYiC-43" value="数据存储（文件/模型/临时数据）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1859" y="589" width="255" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="_vxHMzJD6G0ACfAFZYiC-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.58;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_vxHMzJD6G0ACfAFZYiC-32">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="535" y="564" />
-            </Array>
-            <mxPoint x="1145.9999999999995" y="580" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_vxHMzJD6G0ACfAFZYiC-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_vxHMzJD6G0ACfAFZYiC-32" target="_vxHMzJD6G0ACfAFZYiC-38">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -131,7 +114,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_vxHMzJD6G0ACfAFZYiC-55" value="结果展示&#xa;（分布、进度条、主情绪）" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="183.5" y="524" width="213" height="120" as="geometry" />
+          <mxGeometry x="1070" y="-30" width="213" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
