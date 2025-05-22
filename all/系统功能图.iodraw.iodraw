@@ -32,7 +32,7 @@
           <mxGeometry x="140" y="289" width="40" height="201" as="geometry" />
         </mxCell>
         <mxCell id="_vxHMzJD6G0ACfAFZYiC-17" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;情&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;绪&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;识&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;别&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;（图片/实时/视频）&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="289" width="70" height="341" as="geometry" />
+          <mxGeometry x="220" y="289" width="140" height="201" as="geometry" />
         </mxCell>
         <mxCell id="_vxHMzJD6G0ACfAFZYiC-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="_vxHMzJD6G0ACfAFZYiC-21" target="_vxHMzJD6G0ACfAFZYiC-24">
           <mxGeometry relative="1" as="geometry" />
