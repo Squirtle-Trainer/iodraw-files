@@ -62,7 +62,7 @@
           <mxGeometry x="645" y="266" width="40" height="201" as="geometry" />
         </mxCell>
         <mxCell id="_vxHMzJD6G0ACfAFZYiC-32" value="人脸表情识别系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1615" y="490" width="189" height="49" as="geometry" />
+          <mxGeometry x="1160" y="289" width="189" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_vxHMzJD6G0ACfAFZYiC-33" value="前端页面（HTML/JS/CSS）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="409" y="598" width="252" height="49" as="geometry" />
