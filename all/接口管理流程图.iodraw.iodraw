@@ -262,7 +262,7 @@
         <mxCell id="ktk-sUfoZM2r-Strt3mU-63" value="返回错误信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="570" y="130" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ktk-sUfoZM2r-Strt3mU-66" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ktk-sUfoZM2r-Strt3mU-66" value="权限控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="341" y="230" width="119" height="40" as="geometry" />
         </mxCell>
       </root>
