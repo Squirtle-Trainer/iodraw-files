@@ -246,8 +246,10 @@
             <mxPoint x="-5" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ktk-sUfoZM2r-Strt3mU-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ktk-sUfoZM2r-Strt3mU-62" target="ktk-sUfoZM2r-Strt3mU-67">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ktk-sUfoZM2r-Strt3mU-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ktk-sUfoZM2r-Strt3mU-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="270" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ktk-sUfoZM2r-Strt3mU-70" value="校验成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ktk-sUfoZM2r-Strt3mU-69">
           <mxGeometry x="-0.4571" y="-2" relative="1" as="geometry">
@@ -262,9 +264,6 @@
         </mxCell>
         <mxCell id="ktk-sUfoZM2r-Strt3mU-66" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="84" y="280" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ktk-sUfoZM2r-Strt3mU-67" value="权限是否合规" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="320" y="240" width="162" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
