@@ -140,10 +140,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QNDoge4N1So1yCNppFCk-31" value="实时流" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.8;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="QNDoge4N1So1yCNppFCk-13" target="QNDoge4N1So1yCNppFCk-16">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.0441" y="-6" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-285" y="852" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QNDoge4N1So1yCNppFCk-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.26;rounded=0;" edge="1" parent="1" source="QNDoge4N1So1yCNppFCk-14" target="QNDoge4N1So1yCNppFCk-17">
@@ -245,16 +246,26 @@
         <mxCell id="QNDoge4N1So1yCNppFCk-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QNDoge4N1So1yCNppFCk-66" target="QNDoge4N1So1yCNppFCk-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="QNDoge4N1So1yCNppFCk-82" value="实时流" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QNDoge4N1So1yCNppFCk-77">
+          <mxGeometry x="-0.2537" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QNDoge4N1So1yCNppFCk-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QNDoge4N1So1yCNppFCk-66" target="QNDoge4N1So1yCNppFCk-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QNDoge4N1So1yCNppFCk-80" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QNDoge4N1So1yCNppFCk-78">
+        <mxCell id="QNDoge4N1So1yCNppFCk-80" value="图片" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QNDoge4N1So1yCNppFCk-78">
           <mxGeometry x="-0.5174" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QNDoge4N1So1yCNppFCk-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QNDoge4N1So1yCNppFCk-66" target="QNDoge4N1So1yCNppFCk-75">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QNDoge4N1So1yCNppFCk-81" value="视频" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QNDoge4N1So1yCNppFCk-79">
+          <mxGeometry x="-0.565" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="QNDoge4N1So1yCNppFCk-66" value="结果处理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="98" y="610" width="152" height="81" as="geometry" />
