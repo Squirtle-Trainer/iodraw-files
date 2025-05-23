@@ -249,8 +249,8 @@
         <mxCell id="ktk-sUfoZM2r-Strt3mU-84" value="业务模块处理请求" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="336" y="428" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ktk-sUfoZM2r-Strt3mU-88" value="业务模块处理请求" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="346" y="438" width="130" height="40" as="geometry" />
+        <mxCell id="ktk-sUfoZM2r-Strt3mU-88" value="业务模块处理请求" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="381" y="465" width="40" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
