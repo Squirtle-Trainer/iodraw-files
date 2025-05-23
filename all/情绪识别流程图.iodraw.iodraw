@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QNDoge4N1So1yCNppFCk-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QNDoge4N1So1yCNppFCk-55" target="QNDoge4N1So1yCNppFCk-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QNDoge4N1So1yCNppFCk-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="460" width="440" height="160" as="geometry" />
         </mxCell>
@@ -249,7 +252,7 @@
           <mxGeometry x="114" y="597" width="120" height="39" as="geometry" />
         </mxCell>
         <mxCell id="QNDoge4N1So1yCNppFCk-66" value="结果处理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="98" y="650" width="152" height="81" as="geometry" />
+          <mxGeometry x="97" y="663" width="152" height="81" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
