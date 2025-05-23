@@ -248,6 +248,11 @@
         <mxCell id="QNDoge4N1So1yCNppFCk-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QNDoge4N1So1yCNppFCk-66" target="QNDoge4N1So1yCNppFCk-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="QNDoge4N1So1yCNppFCk-80" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QNDoge4N1So1yCNppFCk-78">
+          <mxGeometry x="-0.5174" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QNDoge4N1So1yCNppFCk-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QNDoge4N1So1yCNppFCk-66" target="QNDoge4N1So1yCNppFCk-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -255,13 +260,13 @@
           <mxGeometry x="98" y="610" width="152" height="81" as="geometry" />
         </mxCell>
         <mxCell id="QNDoge4N1So1yCNppFCk-73" value="返回标注图片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="787" width="120" height="39" as="geometry" />
+          <mxGeometry x="-70" y="758" width="120" height="39" as="geometry" />
         </mxCell>
         <mxCell id="QNDoge4N1So1yCNppFCk-74" value="返回JSON数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="114" y="787" width="120" height="39" as="geometry" />
+          <mxGeometry x="114" y="758" width="120" height="39" as="geometry" />
         </mxCell>
         <mxCell id="QNDoge4N1So1yCNppFCk-75" value="返回标注视频" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="787" width="120" height="39" as="geometry" />
+          <mxGeometry x="294" y="758" width="120" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
