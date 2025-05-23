@@ -104,6 +104,9 @@
         <mxCell id="-1pHCrGiikX01AHijtj6-34" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;性能评估&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="670" width="176" height="41" as="geometry" />
         </mxCell>
+        <mxCell id="-1pHCrGiikX01AHijtj6-35" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;结构化评估结果&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="740" width="176" height="41" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
