@@ -7,7 +7,7 @@
         <mxCell id="_vxHMzJD6G0ACfAFZYiC-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="_vxHMzJD6G0ACfAFZYiC-1" target="_vxHMzJD6G0ACfAFZYiC-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_vxHMzJD6G0ACfAFZYiC-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="_vxHMzJD6G0ACfAFZYiC-1" edge="1">
+        <mxCell id="_vxHMzJD6G0ACfAFZYiC-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.574;entryY=0.035;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="_vxHMzJD6G0ACfAFZYiC-1" target="G_YqbFt1-WURrPsGVvSl-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="795" y="132.25" as="targetPoint" />
           </mxGeometry>
@@ -67,7 +67,7 @@
           <mxGeometry x="360" y="400" width="30" height="180" as="geometry" />
         </mxCell>
         <mxCell id="G_YqbFt1-WURrPsGVvSl-16" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;后端服务层（Django）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="220" width="265" height="57.75" as="geometry" />
+          <mxGeometry x="660" y="132.25" width="265" height="57.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
