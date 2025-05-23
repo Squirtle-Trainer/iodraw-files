@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="QNDoge4N1So1yCNppFCk-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="456" width="440" height="204" as="geometry" />
+          <mxGeometry x="-40" y="456" width="440" height="194" as="geometry" />
         </mxCell>
         <mxCell id="QNDoge4N1So1yCNppFCk-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-86" y="252.5" width="520" height="120" as="geometry" />
@@ -239,6 +239,9 @@
         <mxCell id="QNDoge4N1So1yCNppFCk-56" value="人脸检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="114" y="480" width="120" height="39" as="geometry" />
         </mxCell>
+        <mxCell id="QNDoge4N1So1yCNppFCk-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QNDoge4N1So1yCNppFCk-57" target="QNDoge4N1So1yCNppFCk-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QNDoge4N1So1yCNppFCk-57" value="视频分帧" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="114" y="541" width="120" height="39" as="geometry" />
         </mxCell>
@@ -246,7 +249,7 @@
           <mxGeometry x="114" y="600" width="120" height="39" as="geometry" />
         </mxCell>
         <mxCell id="QNDoge4N1So1yCNppFCk-66" value="结果处理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="728" width="152" height="81" as="geometry" />
+          <mxGeometry x="90" y="670" width="152" height="81" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
