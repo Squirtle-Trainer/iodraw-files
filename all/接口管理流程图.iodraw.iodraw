@@ -140,6 +140,142 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ktk-sUfoZM2r-Strt3mU-31" value="前端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="85" y="1640" width="93" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ktk-sUfoZM2r-Strt3mU-32" value="接口管理" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="84" y="1739" width="96" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ktk-sUfoZM2r-Strt3mU-33" value="参数校验" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="84" y="1838" width="96" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ktk-sUfoZM2r-Strt3mU-34" value="校验?" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="97" y="1937" width="69" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ktk-sUfoZM2r-Strt3mU-35" value="错误" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="2059" width="94" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ktk-sUfoZM2r-Strt3mU-36" value="权限" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="164" y="2059" width="64" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ktk-sUfoZM2r-Strt3mU-37" value="权限?" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="162" y="2158" width="69" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ktk-sUfoZM2r-Strt3mU-38" value="权限错" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="65" y="2280" width="110" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ktk-sUfoZM2r-Strt3mU-39" value="业务分发" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="225" y="2280" width="95" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ktk-sUfoZM2r-Strt3mU-40" value="业务处理" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="225" y="2379" width="95" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ktk-sUfoZM2r-Strt3mU-41" value="长任务?" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="230" y="2478" width="84" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ktk-sUfoZM2r-Strt3mU-42" value="进度推送" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="159" y="2600" width="96" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ktk-sUfoZM2r-Strt3mU-43" value="等待" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="305" y="2600" width="64" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ktk-sUfoZM2r-Strt3mU-44" value="结果" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="240" y="2699" width="64" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ktk-sUfoZM2r-Strt3mU-45" value="响应" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="226" y="2798" width="93" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ktk-sUfoZM2r-Strt3mU-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49;entryY=0;rounded=0;" edge="1" parent="1" source="ktk-sUfoZM2r-Strt3mU-31" target="ktk-sUfoZM2r-Strt3mU-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ktk-sUfoZM2r-Strt3mU-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1;entryX=0.49;entryY=0;rounded=0;" edge="1" parent="1" source="ktk-sUfoZM2r-Strt3mU-32" target="ktk-sUfoZM2r-Strt3mU-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ktk-sUfoZM2r-Strt3mU-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ktk-sUfoZM2r-Strt3mU-33" target="ktk-sUfoZM2r-Strt3mU-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ktk-sUfoZM2r-Strt3mU-49" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.12;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ktk-sUfoZM2r-Strt3mU-34" target="ktk-sUfoZM2r-Strt3mU-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="67" y="2023" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ktk-sUfoZM2r-Strt3mU-50" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.88;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ktk-sUfoZM2r-Strt3mU-34" target="ktk-sUfoZM2r-Strt3mU-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="196" y="2023" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ktk-sUfoZM2r-Strt3mU-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49;entryY=0;rounded=0;" edge="1" parent="1" source="ktk-sUfoZM2r-Strt3mU-36" target="ktk-sUfoZM2r-Strt3mU-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ktk-sUfoZM2r-Strt3mU-52" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.05;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ktk-sUfoZM2r-Strt3mU-37" target="ktk-sUfoZM2r-Strt3mU-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="2244" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ktk-sUfoZM2r-Strt3mU-53" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.94;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ktk-sUfoZM2r-Strt3mU-37" target="ktk-sUfoZM2r-Strt3mU-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="272" y="2244" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ktk-sUfoZM2r-Strt3mU-54" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ktk-sUfoZM2r-Strt3mU-39" target="ktk-sUfoZM2r-Strt3mU-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ktk-sUfoZM2r-Strt3mU-55" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ktk-sUfoZM2r-Strt3mU-40" target="ktk-sUfoZM2r-Strt3mU-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ktk-sUfoZM2r-Strt3mU-56" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.19;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ktk-sUfoZM2r-Strt3mU-41" target="ktk-sUfoZM2r-Strt3mU-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="207" y="2564" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ktk-sUfoZM2r-Strt3mU-57" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ktk-sUfoZM2r-Strt3mU-41" target="ktk-sUfoZM2r-Strt3mU-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="337" y="2564" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ktk-sUfoZM2r-Strt3mU-58" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0;rounded=0;" edge="1" parent="1" source="ktk-sUfoZM2r-Strt3mU-42" target="ktk-sUfoZM2r-Strt3mU-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="207" y="2674" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ktk-sUfoZM2r-Strt3mU-59" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0;rounded=0;" edge="1" parent="1" source="ktk-sUfoZM2r-Strt3mU-43" target="ktk-sUfoZM2r-Strt3mU-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="337" y="2674" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ktk-sUfoZM2r-Strt3mU-60" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ktk-sUfoZM2r-Strt3mU-44" target="ktk-sUfoZM2r-Strt3mU-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
