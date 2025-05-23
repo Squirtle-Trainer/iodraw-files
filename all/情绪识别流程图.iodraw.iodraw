@@ -200,14 +200,17 @@
         <mxCell id="QNDoge4N1So1yCNppFCk-38" value="图片情绪识别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-70" y="307" width="120" height="39" as="geometry" />
         </mxCell>
+        <mxCell id="QNDoge4N1So1yCNppFCk-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QNDoge4N1So1yCNppFCk-39" target="QNDoge4N1So1yCNppFCk-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QNDoge4N1So1yCNppFCk-39" value="实时流情绪识别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="114" y="307" width="120" height="39" as="geometry" />
         </mxCell>
         <mxCell id="QNDoge4N1So1yCNppFCk-40" value="实时流情绪识别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="307" width="120" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="QNDoge4N1So1yCNppFCk-50" value="图片情绪识别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="317" width="120" height="39" as="geometry" />
+        <mxCell id="QNDoge4N1So1yCNppFCk-50" value="视频分帧" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="114" y="417" width="120" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
