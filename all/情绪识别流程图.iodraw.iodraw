@@ -167,6 +167,14 @@
         <mxCell id="QNDoge4N1So1yCNppFCk-35" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="50" width="150" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="QNDoge4N1So1yCNppFCk-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QNDoge4N1So1yCNppFCk-36" target="QNDoge4N1So1yCNppFCk-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QNDoge4N1So1yCNppFCk-42" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QNDoge4N1So1yCNppFCk-41">
+          <mxGeometry x="-0.2292" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QNDoge4N1So1yCNppFCk-36" value="输入类型" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="98" y="130" width="152" height="81" as="geometry" />
         </mxCell>
@@ -179,7 +187,7 @@
         <mxCell id="QNDoge4N1So1yCNppFCk-39" value="实时流情绪识别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="114" y="307" width="120" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="QNDoge4N1So1yCNppFCk-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QNDoge4N1So1yCNppFCk-40" value="实时流情绪识别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="307" width="120" height="39" as="geometry" />
         </mxCell>
       </root>
