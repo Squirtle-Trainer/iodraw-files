@@ -4,12 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ktk-sUfoZM2r-Strt3mU-9" value="分发到业务模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="858" y="520" width="173" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="ktk-sUfoZM2r-Strt3mU-10" value="业务模块处理请求" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="850" y="619" width="189" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="ktk-sUfoZM2r-Strt3mU-11" value="是否为长时任务？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="855" y="718" width="178" height="178" as="geometry" />
         </mxCell>
@@ -24,16 +18,6 @@
         </mxCell>
         <mxCell id="ktk-sUfoZM2r-Strt3mU-15" value="返回响应数据给前端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="841" y="1167" width="206" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="ktk-sUfoZM2r-Strt3mU-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ktk-sUfoZM2r-Strt3mU-9" target="ktk-sUfoZM2r-Strt3mU-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ktk-sUfoZM2r-Strt3mU-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ktk-sUfoZM2r-Strt3mU-10" target="ktk-sUfoZM2r-Strt3mU-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="ktk-sUfoZM2r-Strt3mU-26" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.09;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ktk-sUfoZM2r-Strt3mU-11" target="ktk-sUfoZM2r-Strt3mU-12">
           <mxGeometry relative="1" as="geometry">
