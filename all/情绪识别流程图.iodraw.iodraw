@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QNDoge4N1So1yCNppFCk-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-85" y="456" width="520" height="194" as="geometry" />
+        </mxCell>
         <mxCell id="QNDoge4N1So1yCNppFCk-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-86" y="252.5" width="520" height="120" as="geometry" />
         </mxCell>
@@ -220,9 +223,6 @@
         </mxCell>
         <mxCell id="QNDoge4N1So1yCNppFCk-52" value="帧采集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="403" width="120" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="QNDoge4N1So1yCNppFCk-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-85" y="456" width="520" height="194" as="geometry" />
         </mxCell>
         <mxCell id="QNDoge4N1So1yCNppFCk-56" value="人脸检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="114" y="480" width="120" height="39" as="geometry" />
