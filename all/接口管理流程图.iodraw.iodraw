@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ktk-sUfoZM2r-Strt3mU-1" value="前端发起请求" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="335" y="20" width="157" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="ktk-sUfoZM2r-Strt3mU-3" value="参数校验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="131" y="316" width="126" height="49" as="geometry" />
         </mxCell>
@@ -45,12 +42,6 @@
         </mxCell>
         <mxCell id="ktk-sUfoZM2r-Strt3mU-15" value="返回响应数据给前端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="294" y="1567" width="206" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="ktk-sUfoZM2r-Strt3mU-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ktk-sUfoZM2r-Strt3mU-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="413.5" y="100" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="ktk-sUfoZM2r-Strt3mU-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="ktk-sUfoZM2r-Strt3mU-3">
           <mxGeometry relative="1" as="geometry">
@@ -276,7 +267,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ktk-sUfoZM2r-Strt3mU-61" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;前端发起请求&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="183" y="90" width="137" height="30" as="geometry" />
+          <mxGeometry x="183" y="90" width="147" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
