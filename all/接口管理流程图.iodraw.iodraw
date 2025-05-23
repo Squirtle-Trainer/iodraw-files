@@ -247,7 +247,7 @@
           <mxGeometry x="336" y="350" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ktk-sUfoZM2r-Strt3mU-84" value="业务模块处理请求" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="336" y="440" width="130" height="40" as="geometry" />
+          <mxGeometry x="336" y="428" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
