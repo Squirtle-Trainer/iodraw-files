@@ -26,7 +26,7 @@
           <mxGeometry x="326" y="240" width="176" height="41" as="geometry" />
         </mxCell>
         <mxCell id="-1pHCrGiikX01AHijtj6-30" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;开始训练循环&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="402" y="340" width="176" height="41" as="geometry" />
+          <mxGeometry x="324" y="310" width="176" height="41" as="geometry" />
         </mxCell>
         <mxCell id="-1pHCrGiikX01AHijtj6-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-1pHCrGiikX01AHijtj6-31" target="-1pHCrGiikX01AHijtj6-33">
           <mxGeometry relative="1" as="geometry" />
