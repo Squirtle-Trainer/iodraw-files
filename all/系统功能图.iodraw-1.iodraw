@@ -143,7 +143,7 @@
           <mxGeometry x="1010" y="384" width="30" height="180" as="geometry" />
         </mxCell>
         <mxCell id="G_YqbFt1-WURrPsGVvSl-44" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;异常处理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="384" width="30" height="180" as="geometry" />
+          <mxGeometry x="680" y="396" width="30" height="166" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
