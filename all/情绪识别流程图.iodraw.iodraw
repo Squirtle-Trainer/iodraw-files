@@ -243,7 +243,10 @@
           <mxGeometry x="114" y="541" width="120" height="39" as="geometry" />
         </mxCell>
         <mxCell id="QNDoge4N1So1yCNppFCk-61" value="结果处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="114" y="620" width="120" height="39" as="geometry" />
+          <mxGeometry x="330" y="670" width="120" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="QNDoge4N1So1yCNppFCk-65" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="650" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
