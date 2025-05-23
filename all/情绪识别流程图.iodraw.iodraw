@@ -261,8 +261,11 @@
         <mxCell id="QNDoge4N1So1yCNppFCk-66" value="结果处理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="98" y="675" width="152" height="81" as="geometry" />
         </mxCell>
-        <mxCell id="QNDoge4N1So1yCNppFCk-73" value="结果处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="124" y="607" width="120" height="39" as="geometry" />
+        <mxCell id="QNDoge4N1So1yCNppFCk-73" value="返回标注图片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="770" width="120" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="QNDoge4N1So1yCNppFCk-74" value="返回标注图片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="780" width="120" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
