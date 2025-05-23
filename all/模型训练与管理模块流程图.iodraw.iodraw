@@ -111,6 +111,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="-1pHCrGiikX01AHijtj6-25" value="前端发起训练请求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="30" width="180" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
