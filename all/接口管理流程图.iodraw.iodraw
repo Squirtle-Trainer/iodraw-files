@@ -5,34 +5,34 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ktk-sUfoZM2r-Strt3mU-6" value="权限控制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="289" y="506" width="125" height="49" as="geometry" />
+          <mxGeometry x="836" y="150" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ktk-sUfoZM2r-Strt3mU-7" value="权限合规？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="225" y="673" width="130" height="130" as="geometry" />
+          <mxGeometry x="772" y="317" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="ktk-sUfoZM2r-Strt3mU-8" value="返回权限错误" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="103" y="876" width="158" height="49" as="geometry" />
+          <mxGeometry x="650" y="520" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ktk-sUfoZM2r-Strt3mU-9" value="分发到业务模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="311" y="876" width="173" height="49" as="geometry" />
+          <mxGeometry x="858" y="520" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ktk-sUfoZM2r-Strt3mU-10" value="业务模块处理请求" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="303" y="975" width="189" height="49" as="geometry" />
+          <mxGeometry x="850" y="619" width="189" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ktk-sUfoZM2r-Strt3mU-11" value="是否为长时任务？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="308" y="1074" width="178" height="178" as="geometry" />
+          <mxGeometry x="855" y="718" width="178" height="178" as="geometry" />
         </mxCell>
         <mxCell id="ktk-sUfoZM2r-Strt3mU-12" value="实时推送进度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="215" y="1325" width="157" height="49" as="geometry" />
+          <mxGeometry x="762" y="969" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ktk-sUfoZM2r-Strt3mU-13" value="等待处理完成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="422" y="1325" width="158" height="49" as="geometry" />
+          <mxGeometry x="969" y="969" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ktk-sUfoZM2r-Strt3mU-14" value="标准化结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="326" y="1424" width="142" height="49" as="geometry" />
+          <mxGeometry x="873" y="1068" width="142" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ktk-sUfoZM2r-Strt3mU-15" value="返回响应数据给前端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="294" y="1523" width="206" height="49" as="geometry" />
+          <mxGeometry x="841" y="1167" width="206" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ktk-sUfoZM2r-Strt3mU-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ktk-sUfoZM2r-Strt3mU-6" target="ktk-sUfoZM2r-Strt3mU-7">
           <mxGeometry relative="1" as="geometry">
@@ -42,14 +42,14 @@
         <mxCell id="ktk-sUfoZM2r-Strt3mU-22" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.97;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ktk-sUfoZM2r-Strt3mU-7" target="ktk-sUfoZM2r-Strt3mU-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="182" y="840" />
+              <mxPoint x="729" y="484" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ktk-sUfoZM2r-Strt3mU-23" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.97;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ktk-sUfoZM2r-Strt3mU-7" target="ktk-sUfoZM2r-Strt3mU-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="397" y="840" />
+              <mxPoint x="944" y="484" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -66,28 +66,28 @@
         <mxCell id="ktk-sUfoZM2r-Strt3mU-26" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.09;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ktk-sUfoZM2r-Strt3mU-11" target="ktk-sUfoZM2r-Strt3mU-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="294" y="1289" />
+              <mxPoint x="841" y="933" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ktk-sUfoZM2r-Strt3mU-27" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.91;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ktk-sUfoZM2r-Strt3mU-11" target="ktk-sUfoZM2r-Strt3mU-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="501" y="1289" />
+              <mxPoint x="1048" y="933" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ktk-sUfoZM2r-Strt3mU-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.14;entryY=0;rounded=0;" edge="1" parent="1" source="ktk-sUfoZM2r-Strt3mU-12" target="ktk-sUfoZM2r-Strt3mU-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="294" y="1399" />
+              <mxPoint x="841" y="1043" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ktk-sUfoZM2r-Strt3mU-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.86;entryY=0;rounded=0;" edge="1" parent="1" source="ktk-sUfoZM2r-Strt3mU-13" target="ktk-sUfoZM2r-Strt3mU-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="501" y="1399" />
+              <mxPoint x="1048" y="1043" />
             </Array>
           </mxGeometry>
         </mxCell>
