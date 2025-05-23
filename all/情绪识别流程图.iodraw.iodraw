@@ -242,7 +242,7 @@
         <mxCell id="QNDoge4N1So1yCNppFCk-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QNDoge4N1So1yCNppFCk-57" target="QNDoge4N1So1yCNppFCk-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QNDoge4N1So1yCNppFCk-57" value="视频分帧" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QNDoge4N1So1yCNppFCk-57" value="表情分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="114" y="538" width="120" height="39" as="geometry" />
         </mxCell>
         <mxCell id="QNDoge4N1So1yCNppFCk-66" value="结果处理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
