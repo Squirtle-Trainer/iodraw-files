@@ -66,6 +66,12 @@
         <mxCell id="G_YqbFt1-WURrPsGVvSl-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G_YqbFt1-WURrPsGVvSl-3" target="G_YqbFt1-WURrPsGVvSl-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="G_YqbFt1-WURrPsGVvSl-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G_YqbFt1-WURrPsGVvSl-3" target="G_YqbFt1-WURrPsGVvSl-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G_YqbFt1-WURrPsGVvSl-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G_YqbFt1-WURrPsGVvSl-3" target="G_YqbFt1-WURrPsGVvSl-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="G_YqbFt1-WURrPsGVvSl-3" value="&lt;span style=&quot;font-size: 17px; background-color: initial;&quot;&gt;情&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px; background-color: initial;&quot;&gt;绪&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px; background-color: initial;&quot;&gt;识&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px; background-color: initial;&quot;&gt;别&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="247.5" width="50" height="121.75" as="geometry" />
         </mxCell>
@@ -91,13 +97,13 @@
           <mxGeometry x="660" y="132.25" width="265" height="57.75" as="geometry" />
         </mxCell>
         <mxCell id="G_YqbFt1-WURrPsGVvSl-17" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;图片情绪分析&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="405" width="30" height="180" as="geometry" />
+          <mxGeometry x="440" y="405" width="30" height="180" as="geometry" />
         </mxCell>
         <mxCell id="G_YqbFt1-WURrPsGVvSl-18" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;实时情绪分析&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="405" width="30" height="180" as="geometry" />
         </mxCell>
         <mxCell id="G_YqbFt1-WURrPsGVvSl-19" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;视频情绪分析&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="535" y="405" width="30" height="180" as="geometry" />
+          <mxGeometry x="520" y="405" width="30" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
