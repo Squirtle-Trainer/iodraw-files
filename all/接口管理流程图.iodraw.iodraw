@@ -7,9 +7,6 @@
         <mxCell id="ktk-sUfoZM2r-Strt3mU-6" value="权限控制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="836" y="150" width="125" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="ktk-sUfoZM2r-Strt3mU-7" value="权限合规？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="772" y="317" width="130" height="130" as="geometry" />
-        </mxCell>
         <mxCell id="ktk-sUfoZM2r-Strt3mU-8" value="返回权限错误" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="650" y="520" width="158" height="49" as="geometry" />
         </mxCell>
@@ -34,23 +31,26 @@
         <mxCell id="ktk-sUfoZM2r-Strt3mU-15" value="返回响应数据给前端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="841" y="1167" width="206" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="ktk-sUfoZM2r-Strt3mU-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ktk-sUfoZM2r-Strt3mU-6" target="ktk-sUfoZM2r-Strt3mU-7">
+        <mxCell id="ktk-sUfoZM2r-Strt3mU-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ktk-sUfoZM2r-Strt3mU-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="837.0000000000002" y="317" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ktk-sUfoZM2r-Strt3mU-22" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.97;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ktk-sUfoZM2r-Strt3mU-7" target="ktk-sUfoZM2r-Strt3mU-8">
+        <mxCell id="ktk-sUfoZM2r-Strt3mU-22" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.97;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="ktk-sUfoZM2r-Strt3mU-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="729" y="484" />
             </Array>
+            <mxPoint x="803.4948453608249" y="413.4948453608247" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ktk-sUfoZM2r-Strt3mU-23" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.97;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ktk-sUfoZM2r-Strt3mU-7" target="ktk-sUfoZM2r-Strt3mU-9">
+        <mxCell id="ktk-sUfoZM2r-Strt3mU-23" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.97;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="ktk-sUfoZM2r-Strt3mU-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="944" y="484" />
             </Array>
+            <mxPoint x="870.5051546391755" y="413.4948453608247" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ktk-sUfoZM2r-Strt3mU-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ktk-sUfoZM2r-Strt3mU-9" target="ktk-sUfoZM2r-Strt3mU-10">
@@ -273,7 +273,7 @@
         <mxCell id="ktk-sUfoZM2r-Strt3mU-71" value="权限校验" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="320" y="230" width="162" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ktk-sUfoZM2r-Strt3mU-72" value="返回权限信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="ktk-sUfoZM2r-Strt3mU-72" value="返回权限错误" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="570" y="250" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
