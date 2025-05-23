@@ -255,8 +255,8 @@
         <mxCell id="ktk-sUfoZM2r-Strt3mU-88" value="标准化结果" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="336" y="509" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ktk-sUfoZM2r-Strt3mU-90" value="标准化结果" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="346" y="519" width="130" height="40" as="geometry" />
+        <mxCell id="ktk-sUfoZM2r-Strt3mU-90" value="&lt;span style=&quot;&quot;&gt;返回响应数据给前端&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="336" y="585" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
