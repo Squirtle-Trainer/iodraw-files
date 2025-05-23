@@ -43,17 +43,14 @@
         <mxCell id="-1pHCrGiikX01AHijtj6-31" value="是否中断/早停?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="322" y="380" width="183" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="-1pHCrGiikX01AHijtj6-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-1pHCrGiikX01AHijtj6-33" target="-1pHCrGiikX01AHijtj6-34">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="-1pHCrGiikX01AHijtj6-33" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;保存最佳模型&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="510" width="176" height="41" as="geometry" />
+          <mxGeometry x="130" y="488.5" width="176" height="41" as="geometry" />
         </mxCell>
         <mxCell id="-1pHCrGiikX01AHijtj6-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-1pHCrGiikX01AHijtj6-34" target="-1pHCrGiikX01AHijtj6-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-1pHCrGiikX01AHijtj6-34" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;性能评估&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="670" width="176" height="41" as="geometry" />
+          <mxGeometry x="130" y="564" width="176" height="41" as="geometry" />
         </mxCell>
         <mxCell id="-1pHCrGiikX01AHijtj6-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-1pHCrGiikX01AHijtj6-35" target="-1pHCrGiikX01AHijtj6-36">
           <mxGeometry relative="1" as="geometry" />
