@@ -243,7 +243,7 @@
           <mxGeometry x="114" y="541" width="120" height="39" as="geometry" />
         </mxCell>
         <mxCell id="QNDoge4N1So1yCNppFCk-66" value="结果处理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="728" width="152" height="81" as="geometry" />
+          <mxGeometry x="97" y="629" width="152" height="81" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
