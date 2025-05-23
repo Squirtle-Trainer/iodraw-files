@@ -173,10 +173,10 @@
         <mxCell id="QNDoge4N1So1yCNppFCk-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-86" y="266.5" width="520" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="QNDoge4N1So1yCNppFCk-38" value="图片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QNDoge4N1So1yCNppFCk-38" value="图片情绪识别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-70" y="307" width="120" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="QNDoge4N1So1yCNppFCk-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QNDoge4N1So1yCNppFCk-39" value="实时流情绪识别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="114" y="307" width="120" height="39" as="geometry" />
         </mxCell>
         <mxCell id="QNDoge4N1So1yCNppFCk-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
