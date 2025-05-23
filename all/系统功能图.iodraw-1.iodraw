@@ -25,17 +25,8 @@
         <mxCell id="_vxHMzJD6G0ACfAFZYiC-3" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;前端页面（HTML）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="205" y="132.25" width="265" height="57.75" as="geometry" />
         </mxCell>
-        <mxCell id="_vxHMzJD6G0ACfAFZYiC-67" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;数据集处理模块&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;（&lt;/span&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;分割/增强/校验&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="990" y="180" width="150" height="56" as="geometry" />
-        </mxCell>
         <mxCell id="_vxHMzJD6G0ACfAFZYiC-68" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;模型训练模块&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;（训练/导出/日志）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1120" y="313.25" width="150" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="_vxHMzJD6G0ACfAFZYiC-69" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;情绪识别模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1120" y="417.25" width="150" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="_vxHMzJD6G0ACfAFZYiC-70" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;结果与进度反馈模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1110" y="490" width="150" height="56" as="geometry" />
         </mxCell>
         <mxCell id="G_YqbFt1-WURrPsGVvSl-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="G_YqbFt1-WURrPsGVvSl-1" target="G_YqbFt1-WURrPsGVvSl-8">
           <mxGeometry relative="1" as="geometry" />
@@ -136,14 +127,11 @@
         <mxCell id="G_YqbFt1-WURrPsGVvSl-41" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;参数格式化&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="396" width="30" height="154" as="geometry" />
         </mxCell>
-        <mxCell id="G_YqbFt1-WURrPsGVvSl-42" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;参数配置&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="383" width="30" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="G_YqbFt1-WURrPsGVvSl-43" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;性能评估&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="384" width="30" height="180" as="geometry" />
-        </mxCell>
         <mxCell id="G_YqbFt1-WURrPsGVvSl-44" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;异常处理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="396" width="30" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="G_YqbFt1-WURrPsGVvSl-48" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;异常处理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="797.5" y="409" width="30" height="154" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
