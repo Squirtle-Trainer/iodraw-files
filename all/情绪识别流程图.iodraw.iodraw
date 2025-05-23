@@ -212,8 +212,8 @@
         <mxCell id="QNDoge4N1So1yCNppFCk-50" value="视频分帧" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="114" y="403" width="120" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="QNDoge4N1So1yCNppFCk-52" value="视频分帧" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="124" y="413" width="120" height="39" as="geometry" />
+        <mxCell id="QNDoge4N1So1yCNppFCk-52" value="帧采集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="403" width="120" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
