@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="rgPxHXmd-TlGn6DrxsEM">
-    <mxGraphModel dx="1434" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="574" dy="334" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,7 +49,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G_YqbFt1-WURrPsGVvSl-1" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;数&lt;/font&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;据&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;处&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;理&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="188" y="247.5" width="50" height="121.75" as="geometry" />
+          <mxGeometry x="187" y="247.5" width="50" height="121.75" as="geometry" />
         </mxCell>
         <mxCell id="G_YqbFt1-WURrPsGVvSl-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="G_YqbFt1-WURrPsGVvSl-2" target="G_YqbFt1-WURrPsGVvSl-12">
           <mxGeometry relative="1" as="geometry" />
@@ -73,16 +73,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G_YqbFt1-WURrPsGVvSl-3" value="&lt;span style=&quot;font-size: 17px; background-color: initial;&quot;&gt;情&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px; background-color: initial;&quot;&gt;绪&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px; background-color: initial;&quot;&gt;识&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px; background-color: initial;&quot;&gt;别&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="247.5" width="50" height="121.75" as="geometry" />
+          <mxGeometry x="447" y="247.5" width="50" height="121.75" as="geometry" />
         </mxCell>
         <mxCell id="G_YqbFt1-WURrPsGVvSl-8" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;数&lt;/font&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;据&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;选&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;择&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="158" y="405" width="30" height="180" as="geometry" />
+          <mxGeometry x="157" y="405" width="30" height="180" as="geometry" />
         </mxCell>
         <mxCell id="G_YqbFt1-WURrPsGVvSl-9" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;数&lt;/font&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;据&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;增强&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="198" y="405" width="30" height="180" as="geometry" />
+          <mxGeometry x="197" y="405" width="30" height="180" as="geometry" />
         </mxCell>
         <mxCell id="G_YqbFt1-WURrPsGVvSl-10" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;数&lt;/font&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;据&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;均衡&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="238" y="405" width="30" height="180" as="geometry" />
+          <mxGeometry x="237" y="405" width="30" height="180" as="geometry" />
         </mxCell>
         <mxCell id="G_YqbFt1-WURrPsGVvSl-11" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;参数设置&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="282.5" y="405" width="30" height="180" as="geometry" />
@@ -97,13 +97,13 @@
           <mxGeometry x="660" y="132.25" width="265" height="57.75" as="geometry" />
         </mxCell>
         <mxCell id="G_YqbFt1-WURrPsGVvSl-17" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;图片情绪分析&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="405" width="30" height="180" as="geometry" />
+          <mxGeometry x="417" y="405" width="30" height="180" as="geometry" />
         </mxCell>
         <mxCell id="G_YqbFt1-WURrPsGVvSl-18" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;实时情绪分析&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="405" width="30" height="180" as="geometry" />
+          <mxGeometry x="457" y="405" width="30" height="180" as="geometry" />
         </mxCell>
         <mxCell id="G_YqbFt1-WURrPsGVvSl-19" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;视频情绪分析&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="405" width="30" height="180" as="geometry" />
+          <mxGeometry x="497" y="405" width="30" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
