@@ -122,19 +122,19 @@
           <mxGeometry x="747.5" y="226.5" width="50" height="134" as="geometry" />
         </mxCell>
         <mxCell id="G_YqbFt1-WURrPsGVvSl-40" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;路由请求与分发&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="384" width="30" height="180" as="geometry" />
+          <mxGeometry x="600" y="384" width="30" height="180" as="geometry" />
         </mxCell>
         <mxCell id="G_YqbFt1-WURrPsGVvSl-41" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;参数格式化&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="384" width="30" height="180" as="geometry" />
         </mxCell>
         <mxCell id="G_YqbFt1-WURrPsGVvSl-42" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;参数配置&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="717.5" y="384" width="30" height="180" as="geometry" />
+          <mxGeometry x="870" y="384" width="30" height="180" as="geometry" />
         </mxCell>
         <mxCell id="G_YqbFt1-WURrPsGVvSl-43" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;性能评估&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="757.5" y="384" width="30" height="180" as="geometry" />
+          <mxGeometry x="1010" y="384" width="30" height="180" as="geometry" />
         </mxCell>
         <mxCell id="G_YqbFt1-WURrPsGVvSl-44" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;异常处理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="384" width="30" height="180" as="geometry" />
+          <mxGeometry x="690" y="384" width="30" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
