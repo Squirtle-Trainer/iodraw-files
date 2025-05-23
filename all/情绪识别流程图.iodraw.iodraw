@@ -171,16 +171,16 @@
           <mxGeometry x="98" y="130" width="152" height="81" as="geometry" />
         </mxCell>
         <mxCell id="QNDoge4N1So1yCNppFCk-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="270" width="520" height="120" as="geometry" />
+          <mxGeometry x="-86" y="266.5" width="520" height="120" as="geometry" />
         </mxCell>
         <mxCell id="QNDoge4N1So1yCNppFCk-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="310.5" width="120" height="39" as="geometry" />
+          <mxGeometry x="-70" y="307" width="120" height="39" as="geometry" />
         </mxCell>
         <mxCell id="QNDoge4N1So1yCNppFCk-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="114" y="307" width="120" height="39" as="geometry" />
         </mxCell>
         <mxCell id="QNDoge4N1So1yCNppFCk-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="310.5" width="120" height="39" as="geometry" />
+          <mxGeometry x="300" y="307" width="120" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
