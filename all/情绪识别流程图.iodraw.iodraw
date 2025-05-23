@@ -172,7 +172,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QNDoge4N1So1yCNppFCk-35" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="99" y="43" width="150" height="40" as="geometry" />
+          <mxGeometry x="98" y="43" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QNDoge4N1So1yCNppFCk-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QNDoge4N1So1yCNppFCk-36" target="QNDoge4N1So1yCNppFCk-39">
           <mxGeometry relative="1" as="geometry" />
