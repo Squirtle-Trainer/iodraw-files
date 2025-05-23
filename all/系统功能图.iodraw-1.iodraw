@@ -127,10 +127,10 @@
         <mxCell id="G_YqbFt1-WURrPsGVvSl-44" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;异常处理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="396" width="30" height="154" as="geometry" />
         </mxCell>
-        <mxCell id="G_YqbFt1-WURrPsGVvSl-48" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;数据存储与读取&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="397" width="30" height="154" as="geometry" />
+        <mxCell id="G_YqbFt1-WURrPsGVvSl-48" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;存储与读取&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="396" width="30" height="154" as="geometry" />
         </mxCell>
-        <mxCell id="G_YqbFt1-WURrPsGVvSl-50" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;数据统计与分析&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="G_YqbFt1-WURrPsGVvSl-50" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;统计与分析&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="930" y="397" width="30" height="154" as="geometry" />
         </mxCell>
       </root>
