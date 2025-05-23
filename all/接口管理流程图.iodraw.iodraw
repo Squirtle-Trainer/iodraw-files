@@ -252,11 +252,14 @@
         <mxCell id="ktk-sUfoZM2r-Strt3mU-84" value="业务模块处理请求" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="336" y="428" width="130" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="ktk-sUfoZM2r-Strt3mU-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ktk-sUfoZM2r-Strt3mU-88" target="ktk-sUfoZM2r-Strt3mU-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ktk-sUfoZM2r-Strt3mU-88" value="标准化结果" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="336" y="509" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ktk-sUfoZM2r-Strt3mU-90" value="&lt;span style=&quot;&quot;&gt;返回响应数据给前端&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="336" y="585" width="130" height="40" as="geometry" />
+          <mxGeometry x="320.5" y="585" width="154" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
