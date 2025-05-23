@@ -143,10 +143,10 @@
           <mxGeometry x="840" y="397" width="30" height="154" as="geometry" />
         </mxCell>
         <mxCell id="G_YqbFt1-WURrPsGVvSl-51" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;模型初始化&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="397" width="30" height="154" as="geometry" />
+          <mxGeometry x="780" y="397" width="30" height="154" as="geometry" />
         </mxCell>
         <mxCell id="G_YqbFt1-WURrPsGVvSl-55" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;统计与分析&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="407" width="30" height="154" as="geometry" />
+          <mxGeometry x="890" y="397" width="30" height="154" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
