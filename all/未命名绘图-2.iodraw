@@ -143,7 +143,7 @@
         <mxCell id="h61p38lXmEllNTpCkBK2-45" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;基础设置&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="793" y="513" width="30" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="h61p38lXmEllNTpCkBK2-46" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;模型参数配置&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="h61p38lXmEllNTpCkBK2-46" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;数据集管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="847" y="513" width="30" height="160" as="geometry" />
         </mxCell>
         <mxCell id="h61p38lXmEllNTpCkBK2-47" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;识别方式&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
