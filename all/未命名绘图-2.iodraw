@@ -155,6 +155,9 @@
         <mxCell id="h61p38lXmEllNTpCkBK2-49" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;结果格式化&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1007" y="513" width="30" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="h61p38lXmEllNTpCkBK2-50" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;图像处理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="907" y="523" width="30" height="160" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
