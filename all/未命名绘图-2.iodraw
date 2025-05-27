@@ -112,6 +112,15 @@
         <mxCell id="h61p38lXmEllNTpCkBK2-36" value="&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;接&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;口&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;路&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;由&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;与&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;管&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;理&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="292.5" width="50" height="147.5" as="geometry" />
         </mxCell>
+        <mxCell id="h61p38lXmEllNTpCkBK2-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h61p38lXmEllNTpCkBK2-39" target="h61p38lXmEllNTpCkBK2-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h61p38lXmEllNTpCkBK2-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h61p38lXmEllNTpCkBK2-39" target="h61p38lXmEllNTpCkBK2-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h61p38lXmEllNTpCkBK2-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h61p38lXmEllNTpCkBK2-39" target="h61p38lXmEllNTpCkBK2-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="h61p38lXmEllNTpCkBK2-39" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;模&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;型&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;训&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;练&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;与&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;管&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;理&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="292.5" width="50" height="147.5" as="geometry" />
         </mxCell>
@@ -140,7 +149,7 @@
           <mxGeometry x="830.5" y="483" width="30" height="143" as="geometry" />
         </mxCell>
         <mxCell id="h61p38lXmEllNTpCkBK2-47" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;模型训练&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="959.75" y="483" width="30" height="143" as="geometry" />
+          <mxGeometry x="970" y="483" width="30" height="143" as="geometry" />
         </mxCell>
         <mxCell id="h61p38lXmEllNTpCkBK2-48" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;图像处理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="870.5" y="483" width="30" height="143" as="geometry" />
@@ -152,7 +161,7 @@
           <mxGeometry x="910.5" y="483" width="30" height="143" as="geometry" />
         </mxCell>
         <mxCell id="h61p38lXmEllNTpCkBK2-52" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;模型导出&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1060.25" y="483" width="30" height="143" as="geometry" />
+          <mxGeometry x="1050" y="483" width="30" height="143" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
