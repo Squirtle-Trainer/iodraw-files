@@ -134,7 +134,7 @@
         <mxCell id="h61p38lXmEllNTpCkBK2-42" value="&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;视&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;图&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;与&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;业&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;务&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;逻&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;辑&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860.5" y="292.5" width="50" height="167.5" as="geometry" />
         </mxCell>
-        <mxCell id="h61p38lXmEllNTpCkBK2-43" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;路由请求与分发&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="h61p38lXmEllNTpCkBK2-43" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;URL路由&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="713" y="513" width="30" height="160" as="geometry" />
         </mxCell>
         <mxCell id="h61p38lXmEllNTpCkBK2-44" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;参数格式化&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
