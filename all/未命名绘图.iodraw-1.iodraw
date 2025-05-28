@@ -10,7 +10,7 @@
         <mxCell id="RYfxRBu_aoBGEfxkq1Nu-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="50" y="280" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="RYfxRBu_aoBGEfxkq1Nu-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#f8cecc;strokeColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="RYfxRBu_aoBGEfxkq1Nu-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#f8cecc;strokeColor=#FF0000;gradientColor=default;" vertex="1" parent="1">
           <mxGeometry x="60" y="290" width="90" height="90" as="geometry" />
         </mxCell>
       </root>
