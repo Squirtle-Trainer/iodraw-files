@@ -10,6 +10,11 @@
         <mxCell id="RYfxRBu_aoBGEfxkq1Nu-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#00ff00;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="50" y="280" width="90" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="RYfxRBu_aoBGEfxkq1Nu-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RYfxRBu_aoBGEfxkq1Nu-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RYfxRBu_aoBGEfxkq1Nu-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#ff0000;strokeColor=none;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="60" y="290" width="90" height="90" as="geometry" />
         </mxCell>
