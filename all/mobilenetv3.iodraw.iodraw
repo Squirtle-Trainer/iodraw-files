@@ -59,25 +59,7 @@
           <mxGeometry x="948" y="344.99" height="5.01" as="geometry" />
         </mxCell>
         <mxCell id="RYfxRBu_aoBGEfxkq1Nu-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="928" y="300" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="RYfxRBu_aoBGEfxkq1Nu-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="938" y="312" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="RYfxRBu_aoBGEfxkq1Nu-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="948" y="322" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="RYfxRBu_aoBGEfxkq1Nu-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="958" y="332" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="RYfxRBu_aoBGEfxkq1Nu-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="968" y="342" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="RYfxRBu_aoBGEfxkq1Nu-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="978" y="352" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="RYfxRBu_aoBGEfxkq1Nu-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="988" y="362" width="20" height="20" as="geometry" />
+          <mxGeometry x="910" y="288.75" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
