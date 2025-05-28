@@ -43,14 +43,13 @@
         <mxCell id="RYfxRBu_aoBGEfxkq1Nu-16" value="FC&lt;div style=&quot;font-size: 18px;&quot;&gt;BN&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;hswish&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="567" y="299.37" width="90" height="71.25" as="geometry" />
         </mxCell>
-        <mxCell id="RYfxRBu_aoBGEfxkq1Nu-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RYfxRBu_aoBGEfxkq1Nu-20" target="RYfxRBu_aoBGEfxkq1Nu-26">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="RYfxRBu_aoBGEfxkq1Nu-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RYfxRBu_aoBGEfxkq1Nu-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="334.99" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="RYfxRBu_aoBGEfxkq1Nu-20" value="FC" style="whiteSpace=wrap;html=1;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="689" y="302.49" width="45" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="RYfxRBu_aoBGEfxkq1Nu-26" value="" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="770" y="247.49" width="3.25" height="175" as="geometry" />
         </mxCell>
         <mxCell id="RYfxRBu_aoBGEfxkq1Nu-30" value="1*100" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="736.63" y="425" width="70" height="30" as="geometry" />
