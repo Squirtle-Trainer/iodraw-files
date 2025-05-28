@@ -29,22 +29,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RYfxRBu_aoBGEfxkq1Nu-10" value="bneck&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;small:*11&lt;br style=&quot;font-size: 18px;&quot;&gt;large:*15&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="330" y="273.75" width="96" height="122.5" as="geometry" />
+          <mxGeometry x="315" y="273.75" width="96" height="122.5" as="geometry" />
         </mxCell>
         <mxCell id="RYfxRBu_aoBGEfxkq1Nu-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RYfxRBu_aoBGEfxkq1Nu-12" target="RYfxRBu_aoBGEfxkq1Nu-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RYfxRBu_aoBGEfxkq1Nu-12" value="avg_pool" style="whiteSpace=wrap;html=1;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="460" y="308.75" width="90" height="52.5" as="geometry" />
+          <mxGeometry x="445" y="308.75" width="90" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="RYfxRBu_aoBGEfxkq1Nu-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RYfxRBu_aoBGEfxkq1Nu-16" target="RYfxRBu_aoBGEfxkq1Nu-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RYfxRBu_aoBGEfxkq1Nu-16" value="FC&lt;div style=&quot;font-size: 18px;&quot;&gt;BN&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;hswish&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="590" y="299.37" width="90" height="71.25" as="geometry" />
+          <mxGeometry x="567" y="299.37" width="90" height="71.25" as="geometry" />
         </mxCell>
         <mxCell id="RYfxRBu_aoBGEfxkq1Nu-20" value="FC" style="whiteSpace=wrap;html=1;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="720" y="302.49" width="45" height="65" as="geometry" />
+          <mxGeometry x="705" y="302.49" width="45" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
