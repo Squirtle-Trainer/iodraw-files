@@ -44,7 +44,7 @@
           <mxGeometry x="964" y="305.62" width="45" height="65" as="geometry" />
         </mxCell>
         <mxCell id="RYfxRBu_aoBGEfxkq1Nu-31" value="通道加权（逐通道乘法）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="283.12" width="170" height="136.88" as="geometry" />
+          <mxGeometry x="450" y="266.56" width="170" height="136.88" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
