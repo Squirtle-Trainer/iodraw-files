@@ -4,13 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RYfxRBu_aoBGEfxkq1Nu-1" value="" style="swimlane;startSize=0;fillColor=#3333FF;strokeColor=#6c8ebf;swimlaneLine=1;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="280" width="90" height="90" as="geometry">
-            <mxRectangle x="80" y="280" width="50" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RYfxRBu_aoBGEfxkq1Nu-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;" vertex="1" parent="1">
-          <mxGeometry x="190" y="520" width="120" height="60" as="geometry" />
+        <mxCell id="RYfxRBu_aoBGEfxkq1Nu-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="110" y="270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
