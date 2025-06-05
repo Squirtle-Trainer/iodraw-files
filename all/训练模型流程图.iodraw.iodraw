@@ -135,16 +135,6 @@
         <mxCell id="r4e3RJNMubLivO29sz-O-57" value="验证集评估模型性能" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1141" y="290" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="r4e3RJNMubLivO29sz-O-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;startArrow=none;endArrow=block;" edge="1" parent="1" source="r4e3RJNMubLivO29sz-O-58" target="r4e3RJNMubLivO29sz-O-49">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1241" y="520" />
-              <mxPoint x="1000" y="520" />
-              <mxPoint x="1000" y="530" />
-              <mxPoint x="835" y="530" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="r4e3RJNMubLivO29sz-O-58" value="是否达到最大epoch?" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1151" y="399.5" width="180" height="110" as="geometry" />
         </mxCell>
