@@ -133,7 +133,7 @@
           <mxGeometry x="1141" y="197" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r4e3RJNMubLivO29sz-O-57" value="验证集评估模型性能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1175" y="524.5" width="200" height="60" as="geometry" />
+          <mxGeometry x="1141" y="290" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r4e3RJNMubLivO29sz-O-58" value="是否达到最大epoch?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1440" y="300" width="180" height="110" as="geometry" />
