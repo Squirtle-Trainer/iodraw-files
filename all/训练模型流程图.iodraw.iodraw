@@ -124,7 +124,7 @@
           <mxGeometry x="20" y="554.5" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r4e3RJNMubLivO29sz-O-54" value="Adam优化器反向传播更新参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="555" width="200" height="60" as="geometry" />
+          <mxGeometry x="350" y="555" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r4e3RJNMubLivO29sz-O-56" value="动态通道加权机制更新通道权重" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="175" y="664" width="200" height="60" as="geometry" />
@@ -132,8 +132,8 @@
         <mxCell id="r4e3RJNMubLivO29sz-O-57" value="验证集评估模型性能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="175" y="770" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="r4e3RJNMubLivO29sz-O-58" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="690" width="230" height="130" as="geometry" />
+        <mxCell id="r4e3RJNMubLivO29sz-O-58" value="是否达到最大epoch?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474" y="680" width="230" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
