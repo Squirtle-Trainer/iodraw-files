@@ -125,8 +125,8 @@
         <mxCell id="r4e3RJNMubLivO29sz-O-47" value="设置超参数(epoch/ batch_size等)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="342" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="r4e3RJNMubLivO29sz-O-48" value="前向传播计算损失(CE损失函数)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="570" y="400" width="245" height="67" as="geometry" />
+        <mxCell id="r4e3RJNMubLivO29sz-O-49" value="前向传播计算损失(CE损失函数)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="430" width="210" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
