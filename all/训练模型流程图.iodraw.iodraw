@@ -1,27 +1,9 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="VJHS9wUfHRCWpx4rK8YQ">
-    <mxGraphModel dx="1434" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2390" dy="1392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="r4e3RJNMubLivO29sz-O-1" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="931" y="20" width="93" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="r4e3RJNMubLivO29sz-O-2" value="加载FER2013数据集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="877" y="119" width="202" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="r4e3RJNMubLivO29sz-O-3" value="数据集划分(训练集/验证集/测试集)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="848" y="218" width="260" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="r4e3RJNMubLivO29sz-O-4" value="数据均衡处理(解决类别不平衡)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="848" y="335" width="259" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="r4e3RJNMubLivO29sz-O-5" value="数据增强(旋转/翻转/亮度调整等)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="848" y="451" width="260" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="r4e3RJNMubLivO29sz-O-6" value="初始化魔改MobileNetV3模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="853" y="568" width="248" height="67" as="geometry" />
-        </mxCell>
         <mxCell id="r4e3RJNMubLivO29sz-O-7" value="设置超参数(epoch/ batch_size等)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="879" y="684" width="197" height="67" as="geometry" />
         </mxCell>
@@ -52,34 +34,10 @@
         <mxCell id="r4e3RJNMubLivO29sz-O-16" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="779" y="1716" width="94" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="r4e3RJNMubLivO29sz-O-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="r4e3RJNMubLivO29sz-O-1" target="r4e3RJNMubLivO29sz-O-2">
+        <mxCell id="r4e3RJNMubLivO29sz-O-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" target="r4e3RJNMubLivO29sz-O-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="r4e3RJNMubLivO29sz-O-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="r4e3RJNMubLivO29sz-O-2" target="r4e3RJNMubLivO29sz-O-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="r4e3RJNMubLivO29sz-O-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="r4e3RJNMubLivO29sz-O-3" target="r4e3RJNMubLivO29sz-O-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="r4e3RJNMubLivO29sz-O-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="r4e3RJNMubLivO29sz-O-4" target="r4e3RJNMubLivO29sz-O-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="r4e3RJNMubLivO29sz-O-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="r4e3RJNMubLivO29sz-O-5" target="r4e3RJNMubLivO29sz-O-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="r4e3RJNMubLivO29sz-O-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="r4e3RJNMubLivO29sz-O-6" target="r4e3RJNMubLivO29sz-O-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <mxPoint x="977" y="635" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="r4e3RJNMubLivO29sz-O-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="r4e3RJNMubLivO29sz-O-7" target="r4e3RJNMubLivO29sz-O-8">
