@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="r4e3RJNMubLivO29sz-O-7" value="设置超参数(epoch/ batch_size等)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="879" y="684" width="197" height="67" as="geometry" />
-        </mxCell>
         <mxCell id="r4e3RJNMubLivO29sz-O-8" value="前向传播计算损失(CE损失函数)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="855" y="801" width="245" height="67" as="geometry" />
         </mxCell>
@@ -33,17 +30,6 @@
         </mxCell>
         <mxCell id="r4e3RJNMubLivO29sz-O-16" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="779" y="1716" width="94" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="r4e3RJNMubLivO29sz-O-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" target="r4e3RJNMubLivO29sz-O-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="977" y="635" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="r4e3RJNMubLivO29sz-O-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="r4e3RJNMubLivO29sz-O-7" target="r4e3RJNMubLivO29sz-O-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="r4e3RJNMubLivO29sz-O-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.3;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="r4e3RJNMubLivO29sz-O-8" target="r4e3RJNMubLivO29sz-O-9">
           <mxGeometry relative="1" as="geometry">
