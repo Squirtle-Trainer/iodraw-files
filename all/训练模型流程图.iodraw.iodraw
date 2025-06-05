@@ -141,8 +141,8 @@
         <mxCell id="r4e3RJNMubLivO29sz-O-58" value="是否达到最大epoch?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1151" y="390" width="180" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="r4e3RJNMubLivO29sz-O-60" value="验证集评估模型性能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1131" y="710" width="200" height="60" as="geometry" />
+        <mxCell id="r4e3RJNMubLivO29sz-O-60" value="测试集最终评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1131" y="710" width="139" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
