@@ -133,7 +133,7 @@
           <mxGeometry x="175" y="770" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r4e3RJNMubLivO29sz-O-58" value="是否达到最大epoch?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="570" width="230" height="130" as="geometry" />
+          <mxGeometry x="220" y="264" width="230" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
