@@ -152,8 +152,8 @@
         <mxCell id="r4e3RJNMubLivO29sz-O-36" value="数据集划分(训练集/验证集/测试集)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="385" y="180" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="r4e3RJNMubLivO29sz-O-37" value="数据集划分(训练集/验证集/测试集)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="385" y="280" width="210" height="60" as="geometry" />
+        <mxCell id="r4e3RJNMubLivO29sz-O-37" value="数据均衡处理(解决类别不平衡)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="270" width="210" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
