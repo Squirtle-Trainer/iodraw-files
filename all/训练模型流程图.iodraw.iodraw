@@ -111,11 +111,17 @@
         <mxCell id="r4e3RJNMubLivO29sz-O-44" value="初始化MobileNetV3模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="260" width="210" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="r4e3RJNMubLivO29sz-O-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r4e3RJNMubLivO29sz-O-47" target="r4e3RJNMubLivO29sz-O-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="r4e3RJNMubLivO29sz-O-47" value="设置超参数(epoch/ batch_size等)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="342" width="210" height="60" as="geometry" />
+          <mxGeometry x="170" y="350" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r4e3RJNMubLivO29sz-O-49" value="前向传播计算损失(CE损失函数)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="430" width="210" height="60" as="geometry" />
+          <mxGeometry x="170" y="450" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r4e3RJNMubLivO29sz-O-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
