@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="VJHS9wUfHRCWpx4rK8YQ">
-    <mxGraphModel dx="2390" dy="1392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1366" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -124,6 +124,9 @@
         </mxCell>
         <mxCell id="r4e3RJNMubLivO29sz-O-47" value="设置超参数(epoch/ batch_size等)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="342" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r4e3RJNMubLivO29sz-O-48" value="前向传播计算损失(CE损失函数)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="570" y="400" width="245" height="67" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
