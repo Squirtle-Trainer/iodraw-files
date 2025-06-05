@@ -127,25 +127,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r4e3RJNMubLivO29sz-O-53" value="CosineAnnealingLR调整学习率" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1281" y="83.5" width="200" height="60" as="geometry" />
+          <mxGeometry x="1276" y="83.5" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r4e3RJNMubLivO29sz-O-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r4e3RJNMubLivO29sz-O-54" target="r4e3RJNMubLivO29sz-O-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r4e3RJNMubLivO29sz-O-54" value="Adam优化器反向传播更新参数" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="83.5" width="200" height="60" as="geometry" />
+          <mxGeometry x="995" y="83.5" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r4e3RJNMubLivO29sz-O-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r4e3RJNMubLivO29sz-O-56" target="r4e3RJNMubLivO29sz-O-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r4e3RJNMubLivO29sz-O-56" value="动态通道加权机制更新通道权重" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1141" y="190" width="200" height="60" as="geometry" />
+          <mxGeometry x="1136" y="190" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r4e3RJNMubLivO29sz-O-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r4e3RJNMubLivO29sz-O-57" target="r4e3RJNMubLivO29sz-O-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r4e3RJNMubLivO29sz-O-57" value="验证集评估模型性能" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1141" y="290" width="200" height="60" as="geometry" />
+          <mxGeometry x="1136" y="290" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r4e3RJNMubLivO29sz-O-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r4e3RJNMubLivO29sz-O-58" target="r4e3RJNMubLivO29sz-O-60">
           <mxGeometry relative="1" as="geometry" />
@@ -155,32 +155,26 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r4e3RJNMubLivO29sz-O-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="r4e3RJNMubLivO29sz-O-58" target="r4e3RJNMubLivO29sz-O-49">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="910" y="472" />
-              <mxPoint x="910" y="530" />
-              <mxPoint x="835" y="530" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="r4e3RJNMubLivO29sz-O-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="r4e3RJNMubLivO29sz-O-58" target="r4e3RJNMubLivO29sz-O-49">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r4e3RJNMubLivO29sz-O-58" value="是否达到最大epoch?" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1151" y="390" width="180" height="110" as="geometry" />
+          <mxGeometry x="1146" y="390" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="r4e3RJNMubLivO29sz-O-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r4e3RJNMubLivO29sz-O-60" target="r4e3RJNMubLivO29sz-O-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r4e3RJNMubLivO29sz-O-60" value="测试集最终评估" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1171.5" y="542" width="139" height="50" as="geometry" />
+          <mxGeometry x="1166.5" y="542" width="139" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r4e3RJNMubLivO29sz-O-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r4e3RJNMubLivO29sz-O-64" target="r4e3RJNMubLivO29sz-O-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r4e3RJNMubLivO29sz-O-64" value="保存最优模型参数" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1171" y="623" width="139" height="50" as="geometry" />
+          <mxGeometry x="1166" y="623" width="139" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r4e3RJNMubLivO29sz-O-65" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1201" y="703" width="80" height="40" as="geometry" />
+          <mxGeometry x="1196" y="703" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
