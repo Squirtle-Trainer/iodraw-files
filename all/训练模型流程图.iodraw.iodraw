@@ -130,7 +130,7 @@
           <mxGeometry x="1000" y="83.5" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r4e3RJNMubLivO29sz-O-56" value="动态通道加权机制更新通道权重" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1141" y="197" width="200" height="60" as="geometry" />
+          <mxGeometry x="1141" y="190" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r4e3RJNMubLivO29sz-O-57" value="验证集评估模型性能" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1141" y="290" width="200" height="60" as="geometry" />
