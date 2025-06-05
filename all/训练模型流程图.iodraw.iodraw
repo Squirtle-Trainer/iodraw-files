@@ -158,7 +158,7 @@
         <mxCell id="r4e3RJNMubLivO29sz-O-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r4e3RJNMubLivO29sz-O-36" target="r4e3RJNMubLivO29sz-O-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="r4e3RJNMubLivO29sz-O-36" value="数据集划分(训练集/验证集/测试集)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="r4e3RJNMubLivO29sz-O-36" value="数据集划分、数据均衡、数据增强" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="160" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r4e3RJNMubLivO29sz-O-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r4e3RJNMubLivO29sz-O-37" target="r4e3RJNMubLivO29sz-O-41">
@@ -171,7 +171,7 @@
           <mxGeometry x="170" y="350" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r4e3RJNMubLivO29sz-O-43" value="初始化MobileNetV3模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="385" y="530" width="248" height="67" as="geometry" />
+          <mxGeometry x="151" y="440" width="248" height="67" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
