@@ -170,7 +170,7 @@
         <mxCell id="r4e3RJNMubLivO29sz-O-41" value="数据增强(旋转/翻转/亮度调整等)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="350" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="r4e3RJNMubLivO29sz-O-43" value="初始化魔改MobileNetV3模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="r4e3RJNMubLivO29sz-O-43" value="初始化MobileNetV3模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="385" y="530" width="248" height="67" as="geometry" />
         </mxCell>
       </root>
